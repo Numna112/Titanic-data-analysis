@@ -1,6 +1,6 @@
 introduction
 Here I will work on an exploratory data analysis and Mechine Learning based on the Titanic data set using python. In a first step we will investigate the Titanic data set. Kaggle provides a train and a test data set. The train data set contains all the features possible factors and the target variable ![image](https://user-images.githubusercontent.com/106012011/169688667-53388462-6369-4590-837d-f3abc7f42c27.png)
-steeps
+steps
 Importing Libraries
 Importing titanic Dataset
 Data Cleaning
